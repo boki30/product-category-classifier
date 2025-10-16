@@ -1,0 +1,19 @@
+Model: ComplementNB
+
+                  precision    recall  f1-score   support
+
+            CPUs     0.9808    1.0000    0.9903       614
+ Digital Cameras     0.9917    0.9958    0.9938       481
+     Dishwashers     0.9390    0.9622    0.9504       608
+        Freezers     0.9782    0.8241    0.8946       381
+ Fridge Freezers     0.8889    0.9480    0.9175       962
+         Fridges     0.9272    0.8523    0.8882       643
+      Microwaves     0.9878    0.9666    0.9771       419
+   Mobile Phones     0.9959    0.9891    0.9925       734
+             TVs     0.9819    0.9954    0.9886       655
+Washing Machines     0.9433    0.9765    0.9596       681
+
+        accuracy                         0.9550      6178
+       macro avg     0.9615    0.9510    0.9553      6178
+    weighted avg     0.9557    0.9550    0.9546      6178
+
